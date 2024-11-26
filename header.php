@@ -46,7 +46,7 @@ include('function.php');
         <aside class="menu-sidebar d-none d-lg-block">
             <div class="logo">
                 <a href="#">
-                <h1>SPLITPAY</h1>
+                <img src="images/splitpay.png" alt="SPLITPAY" />
                 </a>
             </div>
             <div class="menu-sidebar__content js-scrollbar1">

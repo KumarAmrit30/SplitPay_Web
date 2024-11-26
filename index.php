@@ -68,7 +68,7 @@ if(isset($_POST['login'])){
                     <div class="login-content">
                         <div class="login-logo">
                             <a href="#">
-                            <h1>SPLITPAY</h1>
+                            <img src="images/splitpay.png" alt="SPLITPAY" />
                             </a>
                         </div>
                         <div class="login-form">
